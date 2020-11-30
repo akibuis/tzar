@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184258707084",
+    "firebase_url": "https://tzar2-adf5f.firebaseio.com",
+    "project_id": "tzar2-adf5f",
+    "storage_bucket": "tzar2-adf5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184258707084:android:cd76f0bda3ed227cf8c5a9",
+        "android_client_info": {
+          "package_name": "com.tzar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184258707084-nnn6p71c1gr8jgj0bsfnnhnafb4g7tdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEW5cd1uPsl-coagAmpGeeZnSlZxmeWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184258707084-nnn6p71c1gr8jgj0bsfnnhnafb4g7tdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
